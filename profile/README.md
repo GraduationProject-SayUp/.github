@@ -7,7 +7,8 @@ SayUP은 AI 기반 한국어 학습 애플리케이션입니다.
 <br>
 
 ### 🏗 시스템 아키텍처
-(사진 첨부)
+![sayup_sa drawio](https://github.com/user-attachments/assets/36efd957-9a39-4e6a-930f-25a176ed130e)
+
 
 <br>
 
