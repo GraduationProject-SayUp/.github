@@ -11,6 +11,32 @@ SayUP은 AI 기반 한국어 학습 애플리케이션입니다.
 
 <br>
 
+### 💻 Tech Stack</h4>
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/> 
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> 
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+</p>
+
+**DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
+</p>
+
+<br>
+
 ### 🚀 주요 기능
 **Voice Recorder**
 - **음성 분석 및 합성**: OpenVoice를 활용하여 사용자의 음성을 벡터화하고, 입력한 문장을 자연스럽게 수정하여 발음 교정을 지원합니다.
