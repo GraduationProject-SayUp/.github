@@ -9,6 +9,10 @@ SayUP은 AI 기반 한국어 학습 애플리케이션입니다.
 ### 🏗 시스템 아키텍처
 ![sayup_sa drawio](https://github.com/user-attachments/assets/36efd957-9a39-4e6a-930f-25a176ed130e)
 
+<br>
+
+### 💾 ERD
+https://www.erdcloud.com/d/wcmG3wt34kxKD6zxu
 
 <br>
 
