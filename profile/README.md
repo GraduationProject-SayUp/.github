@@ -38,9 +38,12 @@ https://www.erdcloud.com/d/wcmG3wt34kxKD6zxu
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
 </p>
 
-**DevOps**
+**DevOps**  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <br>
