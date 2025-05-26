@@ -67,6 +67,13 @@ https://www.erdcloud.com/d/wcmG3wt34kxKD6zxu
 
 <br>
 
+### ⚙️ CI/CD
+<br>
+
+![Group 37272](https://github.com/user-attachments/assets/d6cfdd65-a851-4374-97fe-6e676839d44b)
+
+<br>
+
 ### 🔮 향후 개발 기능
 **상황극 기능**
 - 특정 시나리오 기반 대화 연습을 통해 실전 감각을 향상합니다.
