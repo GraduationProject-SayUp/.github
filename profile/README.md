@@ -10,6 +10,25 @@
 
 <br>
 
+### 핵심 기능
+
+**음성 분석 & 교정**
+- OpenVoice 기반의 실시간 발음 분석 및 맞춤형 피드백 제공
+
+**AI 대화 학습**  
+- ChatGPT API로 자연스러운 한국어 회화 연습 지원
+
+**발음 평가 시스템**
+- MFCC + DTW 알고리즘을 활용한 정밀한 발음 점수화
+
+**입 모양 분석**
+- MediaPipe + MobileNet/LSTM으로 시각적 발음 피드백 제공
+  
+**롤플레이 학습**
+- 친구와 함께하는 상황극 기반 대화 시뮬레이션
+
+<br>
+
 ### 시스템 아키텍처
 
 <br>
@@ -17,25 +36,6 @@
 <p align="center">
   <img width="700" src="https://github.com/user-attachments/assets/9d44ee58-ff75-411f-8d9a-ab1dc17bdc62" />
 </p>
-
-<br>
-
-### 핵심 기능
-
-**음성 분석 & 교정**
-- OpenVoice 기반 실시간 발음 분석 및 맞춤형 교정
-
-**AI 대화 학습**  
-- ChatGPT API 활용 자연스러운 한국어 회화 연습
-
-**발음 평가 시스템**
-- MFCC + DTW 알고리즘 기반 정확한 발음 점수화
-
-**입 모양 분석**
-- MediaPipe + MobileNet/LSTM 모델로 시각적 발음 교정
-
-**소셜 학습**
-- 친구와 함께하는 상황극 기반 롤플레이 연습
 
 <br>
 
